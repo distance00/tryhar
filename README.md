@@ -2,7 +2,7 @@ tryhar-heroku
 =============
 ### Getting started
 
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/10maurycy10/chisel-heroku)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/distance00/tryhar)
 
 Or create a Heroku app manually:
 
